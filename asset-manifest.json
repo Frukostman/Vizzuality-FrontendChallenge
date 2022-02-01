@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Vizzuality-FrontendChallenge/static/css/main.b1d8d93d.css",
+    "main.js": "/Vizzuality-FrontendChallenge/static/js/main.be545671.js",
+    "static/media/drag-dots.svg": "/Vizzuality-FrontendChallenge/static/media/drag-dots.00170dbd6c3a3ef56ea7.svg",
+    "static/media/show.svg": "/Vizzuality-FrontendChallenge/static/media/show.b9e68c2e48d69f8828df.svg",
+    "static/media/hide.svg": "/Vizzuality-FrontendChallenge/static/media/hide.e0d6f5fd108a9380c49a.svg",
+    "index.html": "/Vizzuality-FrontendChallenge/index.html",
+    "static/media/info.svg": "/Vizzuality-FrontendChallenge/static/media/info.997a56b5c6ea54972aa0.svg",
+    "static/media/cross.svg": "/Vizzuality-FrontendChallenge/static/media/cross.14702ca9fb79d6bbfa1b.svg",
+    "static/media/arrow-down.svg": "/Vizzuality-FrontendChallenge/static/media/arrow-down.eca4be2a93f2199040c4.svg",
+    "main.b1d8d93d.css.map": "/Vizzuality-FrontendChallenge/static/css/main.b1d8d93d.css.map",
+    "main.be545671.js.map": "/Vizzuality-FrontendChallenge/static/js/main.be545671.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d8d93d.css",
+    "static/js/main.be545671.js"
+  ]
+}
